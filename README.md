@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5682752&theme=dark)](https://stackoverflow.com/users/5682752/juan-carlos-jimenez)
+
+
 <!--
 **rojoyin/rojoyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
