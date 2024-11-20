@@ -1,6 +1,42 @@
-### Hi there 👋
+# Senior Software Engineer
+
+Creative Senior Software Engineer with over 8 years of experience developing scalable data driven applications.
+Expertise in building teams, automating processes, and providing enterprise-class solutions in cloud-native
+environments. Love to build effective, secure, and resilient systems.
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5682752&theme=dark)](https://stackoverflow.com/users/5682752/juan-carlos-jimenez)
+
+## Tech Skills
+### Languages and frameworks:
+- Python: FastAPI, Flask, Django, Typer, Scrapy, Requests, Hrequests
+- Libraries: Pandas, NumPy, scikit-learn
+
+### Linux OS:
+Ubuntu, CentOS, Fedora
+
+### Databases:
+- Relational: PostgreSQL, MySQL, SQL Server
+- NoSQL: DynamoDB, MongoDB, Elasticsearch, Redis, Memorystore
+
+### DevOps and Data Engineering:
+- Containerization: Docker, k3s, Kubernetes
+- IaC and Automation: Terraform, Ansible, Packer
+- CI/CD: GitHub actions, CircleCI, Jenkins
+- Workflow Orchestration: Kubeflow, Apache Airflow, Argo Workflows
+
+### CloudComputing:
+- AWS, GCP
+
+### Software Architecture and Development Methodologies
+- Microservices, Monolith, TDD
+
+### Messaging Systems
+- RabbitMQ, Kafka, Google Pub/Sub
+
+## Certifications:
+
+- Google Cloud Certified - Professional Cloud Developer, April 2022.
+- Scrum Foundation Professional Certificate, August 2020.
 
 
 <!--
